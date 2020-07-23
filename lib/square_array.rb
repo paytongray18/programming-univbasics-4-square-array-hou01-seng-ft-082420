@@ -3,5 +3,5 @@ def square_array(array)
   counter = 0
   
   while counter < number.length do
-    num.push()
+    num.push(numbers[counter]**2)
 end
